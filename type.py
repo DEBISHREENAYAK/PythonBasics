@@ -12,3 +12,13 @@ print(type(b))
 c=12.3
 print(type(c))
 
+#it also accept multiple object of a class with same values
+x=y=z=10
+print(type(x))
+print(type(y))
+print(type(z))
+
+print(x)
+print(y)
+print(z)
+
