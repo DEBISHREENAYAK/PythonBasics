@@ -18,3 +18,12 @@ print(g)
 
 h=a//b
 print(h)
+
+#taking input from user side
+
+a=int(input('enter a number: '))
+b=int(input('enter a number: '))
+
+c=print(a/b)   #geting decimal output
+d=print(a//b)  #getting the output accoring to the input type
+e=print(a%b)   #getting the reminder part
