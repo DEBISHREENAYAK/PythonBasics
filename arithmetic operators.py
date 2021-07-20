@@ -15,3 +15,6 @@ print(f)
 
 g=a-b
 print(g)
+
+h=a//b
+print(h)
